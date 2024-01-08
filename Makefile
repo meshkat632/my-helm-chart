@@ -15,6 +15,7 @@ releasev2:
 	git add releases
 	git add index.yaml
 	git commit -m "Helm Release: $(shell cat charts/$(CHART_NAME)/Chart.yaml | grep version)"
+	git push origin main;
 	# Set VERSION using the = assignment operator
 	CHART_VERSION=$(shell yq eval '.version' charts/$(CHART_NAME)/Chart.yaml); \
 	git tag -a $$CHART_VERSION -m "Helm Release: $$CHART_VERSION"; \
