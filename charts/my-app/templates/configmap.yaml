@@ -1,0 +1,14 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: example-configmap
+  namespace: {{ .Release.Namespace }}
+  labels:
+    app: example12345678
+data:
+  database_url: "example-db-url"
+  api_key: "your-api-key"
+  app_config: |
+    key1: value1
+    key2: value2
+    key3: value3
