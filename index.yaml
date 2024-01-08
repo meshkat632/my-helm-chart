@@ -3,12 +3,12 @@ entries:
   my-app:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-01-08T10:44:38.502704+01:00"
+    created: "2024-01-08T09:45:31.106584488Z"
     description: A Helm chart for Kubernetes 12
-    digest: 08da8c2162f8a828517e7b4a7ae8fd8f3cd8a248ca3a24ff69230ef6f0ce1f59
+    digest: 6844a832b0424f8b875a775d95d5659a9c67e25e21bcccdd07f962d63518e48d
     name: my-app
     type: application
     urls:
     - https://meshkat632.github.io/my-helm-charts/releases/my-app-1.0.1.tgz
     version: 1.0.1
-generated: "2024-01-08T10:44:38.501733+01:00"
+generated: "2024-01-08T09:45:31.106296625Z"
