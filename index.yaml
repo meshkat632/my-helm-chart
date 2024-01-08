@@ -3,7 +3,17 @@ entries:
   my-app:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-01-08T10:34:07.787984+01:00"
+    created: "2024-01-08T10:34:47.839939+01:00"
+    description: A Helm chart for Kubernetes 12
+    digest: bad4bbc51a99b91a63b7de4e443e50188a7c45fce407dcf1fbc9951df4cab7c0
+    name: my-app
+    type: application
+    urls:
+    - https://meshkat632.github.io/my-helm-charts/releases/my-app-1.0.15.tgz
+    version: 1.0.15
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2024-01-08T10:34:47.839784+01:00"
     description: A Helm chart for Kubernetes 12
     digest: 1e947c2a0b0b31bbab566566e2a859d791b8881c577fe2ada18f93232e8b37e8
     name: my-app
@@ -13,7 +23,7 @@ entries:
     version: 1.0.14
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-01-08T10:34:07.787824+01:00"
+    created: "2024-01-08T10:34:47.839526+01:00"
     description: A Helm chart for Kubernetes 12
     digest: 597bc2035370a32eab946e0548d7c1edfaefbad47240121756e30e7b1a9eb557
     name: my-app
@@ -23,7 +33,7 @@ entries:
     version: 1.0.13
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-01-08T10:34:07.787649+01:00"
+    created: "2024-01-08T10:34:47.839267+01:00"
     description: A Helm chart for Kubernetes 12
     digest: 55db01dee2cf2109edd67d0ec6db11179a70cf511c9c2011bc1ec39d4a9a4ce2
     name: my-app
@@ -33,7 +43,7 @@ entries:
     version: 1.0.12
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-01-08T10:34:07.787409+01:00"
+    created: "2024-01-08T10:34:47.83893+01:00"
     description: A Helm chart for Kubernetes 12
     digest: 67279f61bbcdf0dab2c15eaae6bc529244b0c9cea201b121588cb9fd0e3bd3c1
     name: my-app
@@ -43,7 +53,7 @@ entries:
     version: 1.0.11
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-01-08T10:34:07.787178+01:00"
+    created: "2024-01-08T10:34:47.834272+01:00"
     description: A Helm chart for Kubernetes 12
     digest: 5113fbbc8c2a1cdd9313eecc073b6fbdc1ca45d368d3a78fbd1f3bdf6789fde5
     name: my-app
@@ -53,7 +63,7 @@ entries:
     version: 1.0.10
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-01-08T10:34:07.792361+01:00"
+    created: "2024-01-08T10:34:47.842399+01:00"
     description: A Helm chart for Kubernetes 12
     digest: 865ebbd825a5af30ae9a9f5aa17d822d9fa7af10ebd11acedbda54a0852d9e94
     name: my-app
@@ -63,7 +73,7 @@ entries:
     version: 1.0.9
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-01-08T10:34:07.792118+01:00"
+    created: "2024-01-08T10:34:47.842064+01:00"
     description: A Helm chart for Kubernetes 12
     digest: da35d7ca49e96a7667024d114eb847ccc71edd634de9113d70e832e2717bcc51
     name: my-app
@@ -73,7 +83,7 @@ entries:
     version: 1.0.8
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-01-08T10:34:07.791889+01:00"
+    created: "2024-01-08T10:34:47.84175+01:00"
     description: A Helm chart for Kubernetes 12
     digest: a621c78065595fb035b63eef79e639af1925cadf4380fde425d1cb7aeb307790
     name: my-app
@@ -83,7 +93,7 @@ entries:
     version: 1.0.7
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-01-08T10:34:07.791647+01:00"
+    created: "2024-01-08T10:34:47.841415+01:00"
     description: A Helm chart for Kubernetes 12
     digest: 6ccd8db768369668d891756cbaddddcc12b00b6fe9e414be26bcc634265c9df9
     name: my-app
@@ -93,7 +103,7 @@ entries:
     version: 1.0.6
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-01-08T10:34:07.791388+01:00"
+    created: "2024-01-08T10:34:47.841169+01:00"
     description: A Helm chart for Kubernetes 12
     digest: 4d5c6b064802c9a104be01e61b3fb9cbb46533d0c4aa2b76c195bb55a39e6b8a
     name: my-app
@@ -103,7 +113,7 @@ entries:
     version: 1.0.5
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-01-08T10:34:07.791087+01:00"
+    created: "2024-01-08T10:34:47.840849+01:00"
     description: A Helm chart for Kubernetes 12
     digest: c802b6a033e00d9b0387eda81d45b2188187cdb0765262a59e549de31d2abcf5
     name: my-app
@@ -113,7 +123,7 @@ entries:
     version: 1.0.4
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-01-08T10:34:07.788523+01:00"
+    created: "2024-01-08T10:34:47.840527+01:00"
     description: A Helm chart for Kubernetes 12
     digest: ec57243fa363c2c336c13e8da4c1c4825c5f4e9430c5de2ce79f7f2d729814e1
     name: my-app
@@ -123,7 +133,7 @@ entries:
     version: 1.0.3
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-01-08T10:34:07.78828+01:00"
+    created: "2024-01-08T10:34:47.840271+01:00"
     description: A Helm chart for Kubernetes 12
     digest: 94e737572459067e68f0516f4d4459eff303c8ce6fa925dd5dd2f3a009f82d93
     name: my-app
@@ -133,7 +143,7 @@ entries:
     version: 1.0.2
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-01-08T10:34:07.786961+01:00"
+    created: "2024-01-08T10:34:47.833878+01:00"
     description: A Helm chart for Kubernetes 12
     digest: 752a1f8b9aaef9dfe90cd0b8bb582f7bd3396ec24e806aaa6c64fdb017f0b889
     name: my-app
@@ -141,4 +151,4 @@ entries:
     urls:
     - https://meshkat632.github.io/my-helm-charts/releases/my-app-1.0.1.tgz
     version: 1.0.1
-generated: "2024-01-08T10:34:07.785864+01:00"
+generated: "2024-01-08T10:34:47.832433+01:00"
